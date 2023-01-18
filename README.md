@@ -12,7 +12,4 @@ Features of the dataset:
 5. Close
 6. Adj Close
 7. Volume
-
-
-
-
+refer to uploaded dataset: INR=X.csv
